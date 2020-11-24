@@ -3,6 +3,8 @@
 This simulation is a part of our POSD(Principle of Semiconductor Devices) project. It is a simulation of a PN Junction diode .
 \n
 Authors:-
-```Ayush Singhania
+```
+Ayush Singhania
 Kunal Lahoti
-Mehtaab Singh```
+Mehtaab Singh
+```
